@@ -1,0 +1,22 @@
+{
+  "name": "vox-svg",
+  "version": "1.0.0",
+  "description": "A voxel painter for scalable vector graphics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-mitola/vox-svg.git"
+  },
+  "author": "Robert Mitola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robert-mitola/vox-svg/issues"
+  },
+  "homepage": "https://github.com/robert-mitola/vox-svg#readme",
+  "dependencies": {
+    "three": "^0.96.0"
+  }
+}
